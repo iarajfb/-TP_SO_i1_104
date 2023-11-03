@@ -2,3 +2,7 @@ a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 --Si se puede ver cuando Beta y Gamma modifican el arcivo
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven? 
 --Si pueden ver los archivos que subo.
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+--Si BETA agrega un archivo, los demas integrantes lo van a ver luego de que BETA realice el git push. Para que los demas integrantes puedan verlo de manera local en su maquina deberían de ejecutar el comando git pull origin main. Si no, pueden verlo desde github en el repositorio.
+d-¿De qué forma se comunicaron ustedes?
+--Nosotros nos comunicamos principalmente por Whatsapp, ademas utilizamos la funcionalidad de GitHub Projects, donde podiamos ir siguiendo que tarea realizaba cada uno, y que cosas quedaban por hacer.
