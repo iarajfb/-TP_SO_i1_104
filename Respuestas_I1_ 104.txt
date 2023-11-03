@@ -1,0 +1,4 @@
+a-¿ALFA ve los datos que cargaron los demás en su repositorio? 
+--Si se puede ver cuando Beta y Gamma modifican el arcivo
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven? 
+--Si pueden ver los archivos que subo.
