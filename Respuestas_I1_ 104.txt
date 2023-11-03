@@ -6,3 +6,5 @@ c-¿Si BETA agrega un archivo los demás integrantes lo ven?
 --Si BETA agrega un archivo, los demas integrantes lo van a ver luego de que BETA realice el git push. Para que los demas integrantes puedan verlo de manera local en su maquina deberían de ejecutar el comando git pull origin main. Si no, pueden verlo desde github en el repositorio.
 d-¿De qué forma se comunicaron ustedes?
 --Nosotros nos comunicamos principalmente por Whatsapp, ademas utilizamos la funcionalidad de GitHub Projects, donde podiamos ir siguiendo que tarea realizaba cada uno, y que cosas quedaban por hacer.
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+--Para nosotros la mejor forma de comunicarse dentro de GitHub la mejor forma de comunicarse es a traves de projects y a traves de commits
